@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @xh119
-- 👀 I’m interested in fork
-- 🌱 I’m currently learning park
+- 👀 I’m interested in Fork
+- 🌱 I’m currently learning Puck
 - 💞️ I’m looking to collaborate on you
 - 📫 How to reach me issue
 
